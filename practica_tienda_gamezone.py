@@ -1,0 +1,4 @@
+import funcionesgamezone
+
+
+funcionesgamezone.main()
